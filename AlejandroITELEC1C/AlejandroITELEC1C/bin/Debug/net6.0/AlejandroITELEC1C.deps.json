@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AlejandroITELEC1C/1.0.0": {
+        "runtime": {
+          "AlejandroITELEC1C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlejandroITELEC1C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
